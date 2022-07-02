@@ -1,0 +1,14 @@
+{
+  "name": "@chloe-47/eslint-plugin-no-set-timeout",
+  "version": "1.0.2",
+  "description": "Use setTimeoutSafe instead of setTimeout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chloe-47 <dear.chloebarker@gmail.com>",
+  "license": "GPL-3.0-or-later",
+  "peerDependencies": {
+    "eslint": "^8.19.0"
+  }
+}
